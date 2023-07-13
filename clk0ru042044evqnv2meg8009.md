@@ -1,10 +1,10 @@
 ---
-title: "How to be a Good Software Engineer with Kelsey Hightower(Open Source Cafe #1)"
+title: "How to be a Good Software Engineer with Kelsey Hightower"
 seoTitle: "How to be a Good Software Engineer with Kelsey Hightower"
 seoDescription: "To be a good software one has to ask the right questions. Being a good software engineer is so much more than just someone who remembers the syntax of a pro"
 datePublished: Thu Jul 13 2023 06:30:42 GMT+0000 (Coordinated Universal Time)
 cuid: clk0ru042044evqnv2meg8009
-slug: how-to-be-a-good-software-engineer-with-kelsey-hightoweropen-source-cafe-1
+slug: how-to-be-a-good-software-engineer-with-kelsey-hightower
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689208289246/edc6947a-f22f-4e4b-9414-d318e3848b4b.jpeg
 tags: software-development, programming, developer, 2articles1week, wemakedevs
 
