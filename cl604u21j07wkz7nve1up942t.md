@@ -1,10 +1,10 @@
 ---
-title: "GitHub Actions & CI/CD Pipeline"
+title: "Automating Workflows with GitHub Actions & CI/CD Pipeline"
 seoTitle: "Beginner friendly explanation of how GitHub Actions operate and CI/CD"
 seoDescription: "GitHub Actions is a platform to automate software developer workflows which means that using GitHub Actions we can create some tasks that occur automat"
 datePublished: Mon Jul 25 2022 02:31:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl604u21j07wkz7nve1up942t
-slug: github-actions-cicd-pipeline
+slug: automating-workflows-with-github-actions-cicd-pipeline
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658014063594/56ZqNV8f-.avif
 tags: github, developer, beginners, github-actions-1, blogswithcc
 
